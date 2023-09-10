@@ -1,10 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Jotiraditya Banerjee</h1>
 <h3 align="center">A passionate developer who is keen to learn new technologies and contribute.</h3>
 <img src="./programmer.gif" align="right" width="400" alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praetorian2710&label=Profile%20views&color=0e75b6&style=flat" alt="praetorian2710" > </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praetorian2710" alt="praetorian2710" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/jotiradityaban" target="blank"><img src="https://img.shields.io/twitter/follow/jotiradityaban?logo=twitter&style=for-the-badge" alt="jotiradityaban" /></a> </p>
 
@@ -21,7 +18,7 @@
 - 📄 Know about my experiences [!Will Update Soon](!Will Update Soon)
 
 - ⚡ Fun fact **There is no Roman numeral for zero.**
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praetorian2710" alt="praetorian2710" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jotiradityaban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jotiradityaban" height="30" width="40" /></a>
