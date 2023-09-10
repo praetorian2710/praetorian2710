@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jotiraditya Banerjee</h1>
 <h3 align="center">A passionate developer who is keen to learn new technologies and contribute.</h3>
-<img src"https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="400" alt="coding"/>
+<img src"https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="400" alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praetorian2710&label=Profile%20views&color=0e75b6&style=flat" alt="praetorian2710" > </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praetorian2710" alt="praetorian2710" /></a> </p>
