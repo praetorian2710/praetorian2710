@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Jotiraditya Banerjee</h1>
 <h3 align="center">A passionate developer who is keen to learn new technologies and contribute.</h3>
 <img src="./programmer.gif" align="right" width="400" alt="coding">
