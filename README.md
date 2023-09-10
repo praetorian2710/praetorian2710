@@ -25,7 +25,7 @@
 <a href="https://linkedin.com/in/jotiraditya banerjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jotiraditya banerjee" height="30" width="40" /></a>
 <a href="https://fb.com/jotiraditya banerjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jotiraditya banerjee" height="30" width="40" /></a>
 <a href="https://instagram.com/_._leviianthan_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._leviianthan_._" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/hydrospy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hydrospy" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/hydrospy_der27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hydrospy" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/hydrospy_der" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hydrospy_der" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/praetorian2710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="praetorian2710" height="30" width="40" /></a>
 </p>
